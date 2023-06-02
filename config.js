@@ -11,18 +11,18 @@ global.apikey = 'APOLOZEA' // https://api.lolhuman.xyz
 global.rosekey = 'cba86fac49e37d63f9bd4561' // https://api.itsrose.site
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD'
-global.namaowner = 'AdrianTzy'
+global.namabot = 'Dill-MD'
+global.namaowner = 'Dill.hfz'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6289513081052'
-global.nomerowner = ["6289513081052"]
-global.premium = ['6289513081052']
+global.owner = '6288271005021'
+global.nomerowner = ["6288271005021"]
+global.premium = ['6288271005021']
 
 //—————「 Set Wm 」—————//
-global.packname = 'Adrian-MD'
+global.packname = 'Dill-MD'
 global.author = 'V1.2'
-global.isLink = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
+global.isLink = 'https://chat.whatsapp.com/Jdm96CsxY2G345A3RdvWLD'
 global.prefa = ['', '.']
 global.sp = '•'
 
